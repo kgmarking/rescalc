@@ -1,0 +1,16 @@
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.exe
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.deps.json
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.runtimeconfig.json
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.runtimeconfig.dev.json
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.dll
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ref\ResistanceCalculator.dll
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\bin\Debug\net5.0\ResistanceCalculator.pdb
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.csproj.AssemblyReference.cache
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.AssemblyInfo.cs
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.dll
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ref\ResistanceCalculator.dll
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.pdb
+C:\Users\ryan_\Source\Repos\rescalc\ResistanceCalculator\ResistanceCalculator\obj\Debug\net5.0\ResistanceCalculator.genruntimeconfig.cache
